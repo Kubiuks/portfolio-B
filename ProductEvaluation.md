@@ -18,7 +18,7 @@ As the product was in a working state we needed to test it on potential users to
 
 We arranged a meeting in the Bristol Museum, where we met with the digitalisation team and got more feedback on the project. We also decided to carry out informal interviews with our friends to gain more objective insights.
 
-#### User Testing:
+### User Testing:
 
 The users were given a simple goal to use the web application to extract text from a photo stored in a specified folder. We watched them as they navigated the site and noted what was not intuitive or when the users were not sure what to do. The tests showed among other things:
 
@@ -34,7 +34,9 @@ This feedback showed us on what we should focus next to improve the quality and 
 
 Unfortunately, this last iteration of the product has been greatly influenced by the COVID-19 situation, which we explain in our  COVID-19 Statement. The final evaluation could also not take place in a live, face to face interview. Therefore, we decided to run a heuristic evaluation, specifically Nielsen’s heuristics.
 
-![Nielsen's Heuristics](images/Nielsen'sHeuristics.jpeg)
+
+<img src="images/Nielsen'sHeuristics.jpeg" width="400" height="" />
+
 
 And here are the results of the evaluation:
 
