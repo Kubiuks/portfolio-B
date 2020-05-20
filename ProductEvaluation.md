@@ -42,7 +42,7 @@ And here are the results of the evaluation:
 
 | Description of issue &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Heuristic(s) addressed | Frequency 0(rare) to 4(common) | Impact 0(easy) to 4(difficult) | Persistence 0(once) to 4(repeated) | Severity (F+I+P)/3 |
 | :-----               |    :-------------:     | :-------: | :-------: | :-------: | --------: |
-|  1. Design does not resemble the official Bristol Museum website. | 4,5,8 | 4 | 3 | 4 | 3.67 |   
+|  1. Design does not resemble the official Bristol Museum website. | 4,5,8 | 4 | 2 | 4 | 3.67 |   
 |  2. Edit and delete options are missing from already submitted photos | 3,6,7 | 2 |  4 | 3 | 3 |
 |  3. Unable to upload more than one photo at once | 3,7 | 2 | 2 | 2 | 2 |
 |  3. Unofficial certificate causes browser warning | 6 | 4 | 1 | 1 | 2 |
