@@ -32,16 +32,17 @@ This feedback showed us on what we should focus next to improve the quality and 
 
 ## Final Release Evaluation
 
-Unfortunately, this last iteration of the product has been greatly influenced by the COVID-19 situation, which we explain in our  COVID-19 Statement. The final evaluation could also not take place in a live, face to face interview. Therefore, we decided to run a heuristic evaluation, specifically Nielsen’s heuristics.
+Unfortunately, this last iteration of the product has been greatly influenced by the COVID-19 situation, which we explain in our COVID-19 Statement. The final evaluation could also not take place in a live, face to face interview. Therefore, we decided to run a heuristic evaluation, specifically Nielsen’s heuristics.
 
 
 <img src="images/Nielsen'sHeuristics.jpeg" width="600" height="" />
 
-
+\
 And here are the results of the evaluation:
 
 | Description of issue &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Heuristic(s) addressed | Frequency 0(rare) to 4(common) | Impact 0(easy) to 4(difficult) | Persistence 0(once) to 4(repeated) | Severity (F+I+P)/3 |
 | :-----               |    :-------------:     | :-------: | :-------: | :-------: | --------: |
 |  1. Design does not resemble the official Bristol Museum website. | 4,5,8 | 4 | 3 | 4 | 3.67 |   
-|  2.                   |  ... scan QR codes quickly with my phone ...                                              | ... I can instantly access data without manually entering information             |  
-|  3.                   | ... see a set of media tiles ...                                                           | .... I can learn about places of interest within Goldney gardens                 |
+|  2. Edit and delete options are missing from already submitted photos | 3,6,7 | 2 |  4 | 3 | 3 |
+|  3. Unable to upload more than one photo at once | 3,7 | 2 | 2 | 2 | 2 |
+|  3. Unofficial certificate causes browser warning | 6 | 4 | 1 | 1 | 2 |
