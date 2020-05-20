@@ -35,7 +35,7 @@ This feedback showed us on what we should focus next to improve the quality and 
 Unfortunately, this last iteration of the product has been greatly influenced by the COVID-19 situation, which we explain in our  COVID-19 Statement. The final evaluation could also not take place in a live, face to face interview. Therefore, we decided to run a heuristic evaluation, specifically Nielsen’s heuristics.
 
 
-<img src="images/Nielsen'sHeuristics.jpeg" width="400" height="" />
+<img src="images/Nielsen'sHeuristics.jpeg" width="600" height="" />
 
 
 And here are the results of the evaluation:
