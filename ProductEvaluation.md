@@ -40,8 +40,8 @@ Unfortunately, this last iteration of the product has been greatly influenced by
 
 And here are the results of the evaluation:
 
-| Description of issue | Heuristic(s) addressed | Frequency | Frequency | Frequency | Frequency |
+| Description of issue &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Heuristic(s) addressed | Frequency 0(rare) to 4(common) | Impact 0(easy) to 4(difficult) | Persistence 0(once) to 4(repeated) | Severity (F+I+P)/3 |
 | :-----               |    :-------------:     | :-------: | :-------: | :-------: | --------: |
-|  1.                   | ... be able to easily and quickly install the Goldney Application onto my device ...       | ... I am ready to explore the gardens freely without having to download/install anything in the future. |       
+|  1. Design does not resemble the official Bristol Museum website. | 4,5,8 | 4 | 3 | 4 | 3.67 |   
 |  2.                   |  ... scan QR codes quickly with my phone ...                                              | ... I can instantly access data without manually entering information             |  
 |  3.                   | ... see a set of media tiles ...                                                           | .... I can learn about places of interest within Goldney gardens                 |
